@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=5cf556&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Dhruv+Tomar;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
+  <img src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif">
 </p>
+
 
 [![MasterHead](https://data.whicdn.com/images/304152736/original.gif)](https://rishavchanda.io)
 
