@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=5cf556&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Dhruv+Tomar;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
 </p>
 
+[![MasterHead](https://data.whicdn.com/images/304152736/original.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Dhruv Tomar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
